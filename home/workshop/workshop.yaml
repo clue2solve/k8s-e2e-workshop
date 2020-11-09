@@ -2,7 +2,7 @@ name: End to End Workshop
 
 modules:
     activate:
-    - intro-to-kubtctl
+    - intro-to-kubectl
     - exercises/01-cloud-native-buildpacks
     - exercises/02-tanzu-build-service
     # - exercises/03-set-up-to-dashboard
